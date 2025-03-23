@@ -17,8 +17,8 @@ mutual funds based on their profile and financial behavior.
 1. Create Analytical Datasets: Prepare both train and test datasets using the provided data.
 2. Develop Propensity Models: Build three models to estimate the likelihood of purchase
 for:
-a. Consumer Loan
-b. Credit Card
-c. Mutual Fund
+- Consumer Loan
+- Credit Card
+- Mutual Fund
 3. Optimize Targeting Strategy: Select clients to target with marketing offers to maximize
 revenue, adhering to the constraints.
